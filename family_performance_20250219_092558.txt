@@ -1,0 +1,18 @@
+Family Performance Summary:
+Family Name     | Total Eaten  |  Max Energy 
+---------------------------------------------
+Eta             |      21      |    180.0    
+Alpha           |      28      |    180.0    
+DSA             |      16      |    180.0    
+Theta           |      26      |    180.0    
+Lambda          |      23      |    180.0    
+Iota            |      22      |    179.2    
+Delta           |      25      |    178.9    
+Zeta            |      10      |    174.7    
+Gamma           |      13      |    155.5    
+IO              |      10      |    154.2    
+Kappa           |      8       |    146.0    
+Mu              |      14      |    146.0    
+Beta            |      19      |    144.7    
+Epsilon         |      12      |    130.1    
+R1              |      6       |    106.9    
